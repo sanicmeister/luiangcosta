@@ -2,10 +2,11 @@
 ### 🧑‍💻 Olá, meu nome é Luian 
 #### Sou desenvolvedor Web Full Stack formado pela Labenu
 
--🛠️ Atualmente estou construindo um portfólio consistente
--🌱 Me dedicando a aprender métodos avançados de resolver o cubo mágico
--😄 Pronomes: Ele/Dele
--⚡ Curiosidade: Fascinado por jogos Tower Defense
+- 🛠️ Atualmente estou construindo um portfólio consistente
+-  🌱 Me dedicando a aprender métodos avançados de resolver o cubo mágico
+-  😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Fascinado por jogos Tower Defense
+
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiangcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> 
