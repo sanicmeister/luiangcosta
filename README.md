@@ -1,5 +1,5 @@
 
-### 🧑‍💻 Olá, meu nome é Luian 
+## 🧑‍💻 Olá, meu nome é Luian 
 #### Sou desenvolvedor Web Full Stack formado pela Labenu
 
 - 🛠️ Atualmente estou construindo um portfólio consistente
