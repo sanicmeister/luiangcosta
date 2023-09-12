@@ -1,6 +1,6 @@
 
 ## 🧑‍💻 Olá, aqui eu coloco uns projetinhos que faço no tédio!!
-#### Desenvolvedor Web Full Stack em noites de lua cheia.
+#### Desenvolvedor Web Full Stack
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiangcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/> 
